@@ -1,0 +1,28 @@
+# Open Source Plattform des Kantons Bern
+
+Die kantonale ICT-Verordnung erlaubt seit 2018 explizit, dass der Kanton Bern seine Software als Open-Source-Lösungen anbieten und damit für jedermann kostenlos zugänglich machen kann. Dabei ist es grundsätzlich jeder DIR/STA/JUS selber überlassen, ob sie ihre Applikationen freigeben will. Dieser Leitfaden soll als Hilfestellung dienen.
+
+Kantonsexterne interessierte Stellen und Unternehmen dürfen die Vorlagen und Prozesse gerne ebenfalls verwenden und anpassen. Sämtliche Inhalte stehen unter einer [offenen Lizenz (BSD-3)](LICENSE) und basieren teilweise auf [Open Source Quellen](THIRD-PARTY-LICENSES.md). Gerne nehmen wir auch [Feedback entgegen](CONTRIBUTING.md).
+
+## Inhalt
+
+* [Flyer zu Open Sourcing](documents/0%20-%20Flyer%20Leitfaden%20Open%20Sourcing%20%28d%29.pdf)
+* [Prozess - Open Sourcen einer Applikation](documents/1.1%20-%20Prozess%20-%20Open%20Sourcen%20einer%20Applikation%20%28d%29.pdf)
+  * [Checkliste - Kann ich meine Applikation als Open-Source-Lösung anbieten](documents/2%20-%20Checkliste%20-%20Kann%20ich%20meine%20Applikation%20als%20Open-Source-L%C3%B6sung%20anbieten%20%28d%29.pdf)
+* [Prozess - Open Sourcen einer Library](documents/1.2%20-%20Prozess%20-%20Open%20Sourcen%20einer%20Library%20%28d%29.pdf)
+  * [Antrag - Open Sourcen von Libraries](documents/1.3%20-%20Antrag%20-%20Open%20Sourcing%20von%20Libraries%20%28d%29.pdf)
+* [Checkliste - Source Code und Dokumentation](documents/3%20-%20Checkliste%20-%20Source%20Code%20und%20Dokumentation%20%28d%29.pdf)
+* [Vorlage für ein Projekt](template) (mit Lizenz, Readme, Code of Conduct usw.)
+* [Leitfaden Lizenzwahl](documents/4%20-%20Leitfaden%20Lizenzwahl%20%28d%29.pdf)
+* [Checkliste - Freigabe Publikation](documents/5%20-%20Checkliste%20-%20Freigabe%20Publikation%20%28d%29.pdf)
+* [Leitfaden Community Gestaltung](documents/6%20-%20Leitfaden%20Community%20Gestaltung%20%28d%29.pdf)
+
+## Kontakt
+
+Amt für Informatik und Organisation des Kantons Bern  
+Fachbereich Software  
+info.kaio@fin.be.ch
+
+Wildhainweg 9  
+Postfach  
+3001 Bern
