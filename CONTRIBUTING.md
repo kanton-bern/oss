@@ -1,9 +1,12 @@
 # An der Entwicklung dieser Templates mitarbeiten
 
-Wir freuen uns auf deine Beiträge zu diesem Projekt und bitten dich folgende Punkte
-zu beachten.
+Wir freuen uns auf deine Beiträge zu diesem Projekt und bitten dich folgende Punkte zu beachten.
 
-## Code-Reviews
+## Fragen und Anregungen
+
+Erstelle eine Issue auf diesem Github Projekt.
+
+## Reviews
 
 Für alle Änderungen, auch von Projekt-Mitgliedern, wird ein Review durchgeführt.
 
