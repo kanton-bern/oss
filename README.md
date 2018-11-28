@@ -45,9 +45,5 @@ Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plat
 
 ## Contact
 
-sdhkjsdhkjshd
-shdkjhsdkjhsd
-lkdsjlskjdlksjd
-siduosiduosd
-
-sdhjsdjhkjsdhk
+z1
+z2
