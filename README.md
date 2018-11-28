@@ -37,9 +37,6 @@ Depuis 2018, l’ordonnance cantonale sur les TIC permet explicitement au canton
 
 Les entreprises et les administrations d’autres cantons peuvent aussi utiliser et modifier les modèles et les processus, car tout le contenu est proposé sous une [licence libre (BSD-3)](LICENSE) et provient en partie de sources à code source ouvert. 
 
-skdjlkkjdlkjsd
-jsldkjsld
-
 Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plateforme Open source du canton de Berne.
 
 ## Table des matières
