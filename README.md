@@ -54,7 +54,7 @@ Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plat
 
 ## Contact
 
-Office d’informatique et d’organisation du canton de Berne.
+Office d’informatique et d’organisation du canton de Berne
 Sous-domaine Logiciels
 info.kaio@fin.be.ch
 
