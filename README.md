@@ -11,7 +11,7 @@ Gerne nehmen wir zur Open-Source-Plattform des Kantons Bern Ihr [Feedback entgeg
 * [Flyer zum Thema Open Sourcing](documents/0%20-%20Flyer%20Leitfaden%20Open%20Sourcing%28d%29.pdf)
 * [Prozess «Applikation als Open-Source-Lösung bereit stellen»](documents/1.1%20-%20Processus%20%20-%20Distribuer%20une%20application%20sous%20licence%20libre%20%28d%29.pdf)
   * [Checkliste «Kann ich meine Applikation als Open-Source-Lösung anbieten?»](documents/2%20-%20Checkliste%20-%20Kann%20ich%20meine%20Applikation%20als%20Open-Source-L%C3%B6sung%20anbieten%20%28d%29.pdf)
-* [Prozess «Library als Open Source anbieten»](documents/1.2%20-%20Prozess%20-%20Open%20Sourcen%20einer%20Library%20%28d%29.pdf)
+* [Prozess «Library als Open Source anbieten»](documents/1.2%20-%20Processus%20%20-%20Distribuer%20une%20bibliothèque%20logicielle%20sous%20licence%20libre%20%28f%29.pdf)
   * [Antrag «Open Sourcing von Libraries»](documents/1.3%20-%20Antrag%20-%20Open%20Sourcing%20von%20Libraries%20%28d%29.pdf)
 * [Checkliste «Source Code und Dokumentation»](documents/3%20-%20Checkliste%20-%20Source%20Code%20und%20Dokumentation%20%28d%29.pdf)
 * [Vorlage für ein Projekt (mit Lizenz, Readme, Code of Conduct usw.)](https://github.com/kanton-bern/oss/tree/master/template)
