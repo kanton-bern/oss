@@ -53,3 +53,11 @@ Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plat
 * [Guide concernant la création de communautés](documents/6%20-%20Guide%20concernant%20la%20création%20de%20communautés%20%28f%29.pdf)
 
 ## Contact
+
+Office d’informatique et d’organisation du canton de Berne
+Sous-domaine Logiciels
+info.kaio@fin.be.ch
+
+Wildhainweg 9
+Case postale
+3001 Berne
