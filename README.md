@@ -45,5 +45,3 @@ Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plat
 
 ## Contact
 
-z1
-z2
