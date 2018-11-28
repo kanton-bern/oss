@@ -47,3 +47,8 @@ Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plat
 
 Office d’informatique et d’organisation du canton de Berne
 Sous-domaine Logiciels
+info.kaio@fin.be.ch
+
+Wildhainweg 9
+Case postale
+3001 Berne
