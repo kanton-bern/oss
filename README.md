@@ -35,7 +35,7 @@ Postfach
 
 Depuis 2018, l’ordonnance cantonale sur les TIC permet explicitement au canton de Berne de distribuer ses logiciels en rendant le code source public (logiciels libres), de sorte que tout le monde peut les utiliser gratuitement. C’est à chaque Direction de décider de publier ou non le code source de ses applications. 
 
-Les entreprises et les administrations d’autres cantons peuvent aussi utiliser et modifier les modèles et les processus, car tout le contenu est proposé sous une licence libre (BSD-3) et provient en partie de sources à code source ouvert. 
+Les entreprises et les administrations d’autres cantons peuvent aussi utiliser et modifier les modèles et les processus, car tout le contenu est proposé sous une [licence libre (BSD-3)](LICENSE) et provient en partie de sources à code source ouvert. 
 
 Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plateforme Open source du canton de Berne.
 
