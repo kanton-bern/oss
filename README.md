@@ -62,7 +62,7 @@ Wildhainweg 9
 Case postale
 3001 Berne
 
-Amt für Informatik und Organisation des Kantons Bern  
+Office d’informatique et d’organisation du canton de Berne  
 Fachbereich Software  
 info.kaio@fin.be.ch
 
