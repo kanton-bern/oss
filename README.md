@@ -61,11 +61,3 @@ info.kaio@fin.be.ch
 Wildhainweg 9
 Case postale
 3001 Berne
-
-Office d’informatique et d’organisation du canton de Berne  
-Fachbereich Software  
-info.kaio@fin.be.ch
-
-Wildhainweg 9  
-Postfach  
-3001 Bern
