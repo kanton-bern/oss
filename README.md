@@ -29,6 +29,3 @@ Wildhainweg 9
 Postfach  
 3001 Bern
 
----------------------------------------------------
-
-# Plateforme Open source du canton de Berne
