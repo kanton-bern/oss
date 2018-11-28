@@ -45,7 +45,7 @@ Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plat
 * [Processus «Distribuer une application sous licence libre»](documents/1.1%20-%20Processus%20%20-%20Distribuer%20une%20application%20sous%20licence%20libre%20%28f%29.pdf)
   * [Check-list «Puis-je distribuer mon application sous licence libre?»](documents/2%20-%20Check-list%20-%20Puis-je%20distribuer%20mon%20application%20sous%20licence%20libre%20%28f%29.pdf)
 * [Processus «Distribuer une bibliothèque logicielle sous licence libre»](documents/1.2%20-%20Processus%20%20-%20Distribuer%20une%20bibliothèque%20logicielle%20sous%20licence%20libre%20%28f%29.pdf)
-  * [Demande de «Distribution de bibliothèque sous licence libre»](documents/1.3%20-%20Antrag%20-%20Open%20Sourcing%20von%20Libraries%20%28d%29.pdf)
+  * [Demande de «Distribution de bibliothèque sous licence libre»](documents/1.3%20-%20Demande%20-%20Distribution%20de%20bibliothèque%20sous%20licence%20libre%20%28f%29.pdf)
 * [Check-list «Code source et documentation»](documents/3%20-%20Checkliste%20-%20Source%20Code%20und%20Dokumentation%20%28d%29.pdf)
 * [Modèle de projet (avec licence, fichier Readme, code de conduite, etc.)](https://github.com/kanton-bern/oss/tree/master/template)
 * [Guide pour le choix de la licence](documents/4%20-%20Leitfaden%20Lizenzwahl%20%28d%29.pdf)
