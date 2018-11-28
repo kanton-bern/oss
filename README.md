@@ -41,7 +41,7 @@ Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plat
 
 ## Table des matières
 
-* [Flyer zum Thema Open Sourcing](documents/0%20-%20Flyer%20Leitfaden%20Open%20Sourcing%20%28d%29.pdf)
+* [•	Dépliant sur les logiciels à code source ouvert](documents/0%20-%20Flyer%20Leitfaden%20Open%20Sourcing%20%28d%29.pdf)
 * [Prozess «Applikation als Open-Source-Lösung bereit stellen»](documents/1.1%20-%20Prozess%20-%20Open%20Sourcen%20einer%20Applikation%20%28d%29.pdf)
   * [Checkliste «Kann ich meine Applikation als Open-Source-Lösung anbieten?»](documents/2%20-%20Checkliste%20-%20Kann%20ich%20meine%20Applikation%20als%20Open-Source-L%C3%B6sung%20anbieten%20%28d%29.pdf)
 * [Prozess «Library als Open Source anbieten»](documents/1.2%20-%20Prozess%20-%20Open%20Sourcen%20einer%20Library%20%28d%29.pdf)
