@@ -22,12 +22,11 @@ Gerne nehmen wir zur Open-Source-Plattform des Kantons Bern Ihr [Feedback entgeg
 ## Kontakt
 
 Amt für Informatik und Organisation des Kantons Bern  
-Fachbereich Software  
-info.kaio@fin.be.ch
+Fachbereich Application Services 1
+info.kaio@be.ch
 
-Wildhainweg 9  
-Postfach  
-3001 Bern
+Wildhainweg 9   
+3012 Bern
 
 -----------------------------------------------------
 
@@ -56,8 +55,7 @@ Nous serions heureux de recevoir [vos commentaires](CONTRIBUTING.md) sur la Plat
 
 Office d’informatique et d’organisation du canton de Berne  
 Sous-domaine Logiciels  
-info.kaio@fin.be.ch
+info.kaio@be.ch
 
 Wildhainweg 9  
-Case postale  
-3001 Berne
+3012 Berne
