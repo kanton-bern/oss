@@ -23,6 +23,7 @@ Gerne nehmen wir zur Open-Source-Plattform des Kantons Bern Ihr [Feedback entgeg
 
 Amt für Informatik und Organisation des Kantons Bern  
 Fachbereich Application Services 1
+
 info.kaio@be.ch
 
 Wildhainweg 9   
